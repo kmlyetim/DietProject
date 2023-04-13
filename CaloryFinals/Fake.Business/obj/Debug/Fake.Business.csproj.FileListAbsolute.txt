@@ -1,0 +1,82 @@
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.Business.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.Business.pdb
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\EntityFramework.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.DAL.dll.config
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\bin\Debug\EntityFramework.xml
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.CopyComplete
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.CopyComplete
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\obj\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\Fake.Business.dll
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\Fake.Business.pdb
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\EntityFramework.dll
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\Fake.DAL.dll.config
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\EntityFramework.xml
+C:\Users\Atakan\Desktop\Calory\Fake.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atakan\Desktop\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\Calory\Fake.Business\obj\Debug\Fake.Business.csproj.CopyComplete
+C:\Users\Atakan\Desktop\Calory\Fake.Business\obj\Debug\Fake.Business.dll
+C:\Users\Atakan\Desktop\Calory\Fake.Business\obj\Debug\Fake.Business.pdb
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\Fake.Business.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\Fake.Business.pdb
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.dll.config
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.xml
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.CopyComplete
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.CopyComplete
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.csproj.CopyComplete
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.Business\obj\Debug\Fake.Business.pdb

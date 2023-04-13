@@ -1,0 +1,72 @@
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Calory.exe.config
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Calory.exe
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Calory.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\ReaLTaiizor.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\bin\Debug\ReaLTaiizor.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmAddFood.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmMessageBox.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmOwner.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmSend.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmForgotPassword.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmLogin.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmMain.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmMessage.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmRegister.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmReports.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmUserInfo.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmFoods.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.frmMessageDetail.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.Properties.Resources.resources
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.GenerateResource.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.CopyComplete
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.exe
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Calory\obj\Debug\Calory.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Calory.exe.config
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Calory.exe
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Calory.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Fake.Business.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\ReaLTaiizor.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Fake.Business.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\bin\Debug\ReaLTaiizor.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmAddFood.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmMessageBox.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmOwner.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmSend.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmForgotPassword.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmLogin.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmMain.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmMessage.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmRegister.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmReports.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmUserInfo.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmFoods.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.frmMessageDetail.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.Properties.Resources.resources
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.GenerateResource.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Fake.UI.csproj.CopyComplete
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.exe
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Calory\obj\Debug\Calory.pdb

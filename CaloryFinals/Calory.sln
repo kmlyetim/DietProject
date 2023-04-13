@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake.UI", "Calory\Fake.UI.csproj", "{8F5757E8-0D72-4653-92F7-B312A5371AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake.DAL", "Fake.DAL\Fake.DAL.csproj", "{5ACF8615-C66E-49A7-914D-5038136D2C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake.Business", "Fake.Business\Fake.Business.csproj", "{7DF022C0-3F81-41A6-A9DD-7475D4C5B7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5757E8-0D72-4653-92F7-B312A5371AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5757E8-0D72-4653-92F7-B312A5371AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5757E8-0D72-4653-92F7-B312A5371AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5757E8-0D72-4653-92F7-B312A5371AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACF8615-C66E-49A7-914D-5038136D2C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACF8615-C66E-49A7-914D-5038136D2C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACF8615-C66E-49A7-914D-5038136D2C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACF8615-C66E-49A7-914D-5038136D2C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF022C0-3F81-41A6-A9DD-7475D4C5B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF022C0-3F81-41A6-A9DD-7475D4C5B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF022C0-3F81-41A6-A9DD-7475D4C5B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF022C0-3F81-41A6-A9DD-7475D4C5B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E366D3-B649-4311-8B74-0C20751794C7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,72 @@
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\Fake.DAL.dll.config
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.CopyComplete
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.CopyComplete
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör\Calory (1)\Calory\Fake.DAL\obj\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\Fake.DAL.dll.config
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\obj\Debug\Fake.DAL.csproj.CopyComplete
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\obj\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\Calory\Fake.DAL\obj\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.dll.config
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.pdb
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.AssemblyReference.cache
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.CopyComplete
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.dll
+C:\Users\Atakan\Desktop\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.CopyComplete
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\Yeni klasör (3)\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.dll.config
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\Fake.DAL.pdb
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.csproj.CopyComplete
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.dll
+C:\Users\kyeti\Desktop\finalİNŞ\CaloryFinals\Fake.DAL\obj\Debug\Fake.DAL.pdb
